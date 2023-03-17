@@ -1,7 +1,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there+!;How+are+you+%3F;Nice+to+meet+you+!+;My+name+is+Omer+Rahmany;I+am+a+DevOps+and+Mobile+developer;Have+A+Good+Day+++(%E2%97%95%E2%80%BF%E2%97%95);%D7%9C%D6%B9%D7%94%D7%99%D7%AA%D7%A8%D7%95%D7%AA.%D7%91%D7%99%D7%99.%D7%91%D7%99%D7%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there+!;How+are+you+%3F;Nice+to+meet+you+!+;My+name+is+Omer+Rahmany;I+am+a+DevOps+and+Mobile+developer;Have+A+Good+Day+++(%E2%97%95%E2%80%BF%E2%97%95);)](https://git.io/typing-svg)
 
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/omer-rahmany">
